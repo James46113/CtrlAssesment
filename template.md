@@ -12,3 +12,9 @@
 #### Experimentation with hardware(?)
 #### Directory structure
 #### File types and Exporting options
+
+
+# Evaluation
+#### Technical skills
+#### The processes I have used
+#### Improvments
